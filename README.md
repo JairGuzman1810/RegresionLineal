@@ -5,11 +5,11 @@
 
 ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Overview.png)
 
-  b) Models
+   b) Models
 
 ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Models.png)
 
-  c) Métricas del mejor modelo
+   c) Métricas del mejor modelo
   
  ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Metrics.png)
 
