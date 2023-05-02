@@ -20,6 +20,8 @@
    
 https://colab.research.google.com/drive/1WIGdnfveGbpyGoNK53NGbU82lMRArxrZ?usp=sharing
 
+Se encuentra al final del colab.
+
 3) Mongo DB
 
    a) Práctica map reduce - screenshot del aggregation pipeline, los pasos y el resultado
