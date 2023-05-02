@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/1WIGdnfveGbpyGoNK53NGbU82lMRArxrZ?usp=sh
 
 3) Mongo DB
 
-  a) Práctica map reduce - screenshot del aggregation pipeline, los pasos y el resultado
+   a) Práctica map reduce - screenshot del aggregation pipeline, los pasos y el resultado
 
 La vista de los commits.. o una vista de lo que quieran 
 
