@@ -42,7 +42,7 @@ Visualizamos nuestra coleccion de commits.
  
  3. En el combobox, seleccionamos la opción $group.
  4. Colocamos los datos necesarios, en este caso _id: "$Data Commit" y lo de valor $sum: 1.
- 5. Nos arrojara como resultado toda las fechas y las veces que se repetieron en nuestra BD.
+ 5. Nos arrojara como resultado todas las fechas y las veces que se repetieron en nuestra BD.
  6. Agregamos otro Stage.
  
   ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/MapReduce/3.png)
