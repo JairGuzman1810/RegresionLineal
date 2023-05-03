@@ -18,7 +18,7 @@ Portafolio realizado por: Jair Francisco Guzmán Hernández
  ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Metrics.png)
 
 
-## 2) Mongo DB -  log de commits
+## 2) Mongo DB - log de commits
 
   #### a) Práctica conectar base de datos desde colab
    
@@ -26,7 +26,7 @@ https://colab.research.google.com/drive/1WIGdnfveGbpyGoNK53NGbU82lMRArxrZ?usp=sh
 
 Se encuentra al final del colab.
 
-## 3) Mongo DB Aggregation Pipeline
+## 3) Mongo DB - Aggregation Pipeline
 
   #### a) Práctica map reduce - screenshot del aggregation pipeline, los pasos y el resultado
 
