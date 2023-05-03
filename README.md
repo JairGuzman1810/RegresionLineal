@@ -1,33 +1,34 @@
 
-1) Modelo en Azure ML Studio  - Screenshot del modelo generado :
+# PARCIAL 2 - HERRAMIENTAS 3
+Portafolio realizado por: Jair Francisco Guzmán Hernández
 
-   a) Overview - donde se ve el status completed
+
+## 1) Modelo en Azure ML Studio  - Screenshot del modelo generado :
+
+  #### a) Overview - donde se ve el status completed
 
 ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Overview.png)
 
-   b) Models
+  #### b) Models
 
 ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Models.png)
 
-   c) Métricas del mejor modelo
+  #### c) Métricas del mejor modelo
   
  ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/Azure/Metrics.png)
 
 
-2) Mongo DB -  log de commits
+## 2) Mongo DB -  log de commits
 
-   a) Práctica conectar base de datos desde colab
+  #### a) Práctica conectar base de datos desde colab
    
 https://colab.research.google.com/drive/1WIGdnfveGbpyGoNK53NGbU82lMRArxrZ?usp=sharing
 
 Se encuentra al final del colab.
 
-3) Mongo DB
+## 3) Mongo DB Aggregation Pipeline
 
-   a) Práctica map reduce - screenshot del aggregation pipeline, los pasos y el resultado
-
-La vista de los commits.. o una vista de lo que quieran 
-
+  #### a) Práctica map reduce - screenshot del aggregation pipeline, los pasos y el resultado
 
 Visualizamos nuestra coleccion de commits.
 
@@ -60,9 +61,9 @@ Nos dara como resultado una colección como se vio en el paso 5.
    ![alt text](https://github.com/JairGuzman1810/RegresionLineal/blob/master/MapReduce/5.png)
    
    
-4) Modelos de regresión lineal con streamlit - Iris - 
+## 4) Modelos de regresión lineal con streamlit - Iris - 
 
-Deployar la app en streamline y compartir el repo y el link
+Enlace del proyecto en streamlit:
 
 https://jairguzman1810-regresionlineal-main-02tcab.streamlit.app/
 
