@@ -1,5 +1,5 @@
 
-# PARCIAL 2 - HERRAMIENTAS 3
+# PARCIAL 2 - HERRAMIENTAS PARA EL ANÁLISIS DE DATOS III
 Portafolio realizado por: Jair Francisco Guzmán Hernández
 
 
